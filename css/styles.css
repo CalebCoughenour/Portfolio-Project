@@ -71,6 +71,7 @@ ol {
   display: table; 
   margin: 0 auto;
   text-align: left;
+  font-size: larger;
 }
 
 .url {
