@@ -1,9 +1,11 @@
 .jumbotron {
+  margin-top: 15px;
   text-align: center;
   padding: 2rem 1rem;
   margin-bottom: 2rem;
   background-color: #cc20a78a;
   border-radius: 0.3rem;
+  border: solid 2px black;
 }
 
 .highlight {
