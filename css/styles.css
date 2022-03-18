@@ -13,12 +13,17 @@
 
 img {
   margin: auto;
-  height: ;
-  width: 90%;
+  float: right;
+  height: 200px;
+  width: 18%;
   border: solid 3px black;
   display: block;
 }
 
 body {
   background-color: rgb(136, 253, 243);
+}
+
+h2 {
+
 }
