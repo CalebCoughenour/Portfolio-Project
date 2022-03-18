@@ -58,5 +58,7 @@ ol {
 .url {
   margin-top: 20px;
   text-align: center;
+  font-size: larger;
+  font-weight: bolder;
 }
 
