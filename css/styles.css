@@ -6,6 +6,19 @@
   border-radius: 0.3rem;
 }
 
+.card {
+  margin-bottom: 20px;
+  background-color: #cc20a78a;
+}
+
+img {
+  margin: auto;
+  height: ;
+  width: 90%;
+  border: solid 3px black;
+  display: block;
+}
+
 body {
   background-color: rgb(136, 253, 243);
 }
