@@ -11,6 +11,22 @@
   background-color: #cc20a78a;
 }
 
+.card-title {
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+ol {
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+
+
+
 img {
   margin: auto;
   float: right;
@@ -25,5 +41,5 @@ body {
 }
 
 h2 {
-
+  text-align: center;
 }
