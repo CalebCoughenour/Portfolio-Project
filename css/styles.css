@@ -15,6 +15,7 @@
   padding-right: 10px;
   padding-left: 10px;
   background-color: #cc20a78a;
+  border: solid 2px black;
 }
 
 .card-title {
@@ -46,7 +47,15 @@ h2 {
 
 body {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: large;
+  font-size: medium;
+}
+
+p {
+  font-size: larger;
+}
+
+a {
+  font-size: larger;
 }
 
 ul {
