@@ -12,7 +12,7 @@
 
 ## Description
 
-_This webpage was created for an independent project at Epicodus. It displays information about my hobbies, job experience and repositories._
+_This webpage was created for an independent project at Epicodus. It displays information about my hobbies, job experience and repositories. There is a link to a gh page from my project before this one. There are also multiple repositories linked at the bottom._
 
 ## Setup/Installation Requirements
 
@@ -27,6 +27,6 @@ _This webpage was created for an independent project at Epicodus. It displays in
 
 ## License
 
-[MIT]()
+Licensed under The [MIT](LICENSE)
 
 Copyright (c) _3/18/22_ _Caleb Coughenour_
