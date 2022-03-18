@@ -19,13 +19,6 @@
   text-align: center;
 }
 
-ol {
-  margin: 0;
-  padding: 0;
-  display: inline;
-}
-
-
 
 img {
   margin: auto;
@@ -42,4 +35,9 @@ body {
 
 h2 {
   text-align: center;
+}
+
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: large;
 }
