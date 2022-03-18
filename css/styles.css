@@ -23,7 +23,7 @@
 img {
   margin: auto;
   float: right;
-  height: 200px;
+  height: 250px;
   width: 18%;
   border: solid 3px black;
   display: block;
@@ -41,3 +41,16 @@ body {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: large;
 }
+
+ul {
+  display: table; 
+  margin: 0 auto;
+  text-align: left;
+}
+
+ol {
+  display: table; 
+  margin: 0 auto;
+  text-align: left;
+}
+
