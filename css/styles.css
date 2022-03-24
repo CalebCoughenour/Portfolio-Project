@@ -81,3 +81,9 @@ ol {
   font-weight: bolder;
 }
 
+.url:hover {
+  cursor: pointer;
+  color: #0088cc;
+  text-decoration: underline;
+}
+
